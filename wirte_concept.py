@@ -1,0 +1,5 @@
+ptr=open("golu1.txt","w")
+ptr.write("Hello myself shubham kumar singh")
+ptr.write("Hello myself shubham kumar singh")
+ptr.write("Hello myself shubham kumar singh")
+ptr.close()
